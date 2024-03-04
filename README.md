@@ -34,7 +34,7 @@ The following **optional** features are implemented:
 
 ## Notes
 
-The main challenge I faced was utilizing git commands, within xCode. I was trying to push my code to my new repository and it told me I had to pull the resent files, so when I did and went to push again, all of my code was gone and I had to start over. :(
+The main challenge I faced was utilizing git commands, within xCode. I was trying to push my code to my new repository and it told me I had to pull the recent files, so when I did and went to push again, all of my code was gone and I had to start over. :(
 
 ## License
 
