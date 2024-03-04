@@ -6,7 +6,7 @@ Submitted by: **Kiahna Isadore**
 
  
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -14,27 +14,27 @@ The following **required** functionality is completed:
 
 - [X] User can change the number of letters per row (the length of the goal word)
 - [X] User can change the numbers of rows on the board (how many guesses allowed)
-- [ ] User can select a new themed set to pull the goal word from
-- [ ] User can select "alien wordle", causing the goal word to change after each guess
+- [X] User can select a new themed set to pull the goal word from
+- [X] User can select "alien wordle", causing the goal word to change after each guess
 
 
 The following **optional** features are implemented:
 
-- [ ] App displays a reset button on the top left to reset the game (but make no changes to the settings)
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
+- [X] App displays a reset button on the top left to reset the game (but make no changes to the settings)
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/71966eab98a64a988607cadc4e77064b">
+    </a>
+    <a href="https://www.loom.com/share/71966eab98a64a988607cadc4e77064b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/71966eab98a64a988607cadc4e77064b-with-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The main challenge I faced was utilizing git commands, within xCode. I was trying to push my code to my new repository and it told me I had to pull the resent files, so when I did and went to push again, all of my code was gone and I had to start over. :(
 
 ## License
 
